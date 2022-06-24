@@ -1,0 +1,27 @@
+a {
+    color: crimson;
+    text-decoration: none;
+  }
+a:visited {
+    color: green;
+  }
+a:hover {
+    color: hotpink;
+    text-decoration: underline;
+    background-color: lightcyan;
+  }
+a:active {
+    color: blue;
+  }
+
+h1 {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: underline dotted rgb(197, 240, 223);
+  }
+#assign {
+  text-align: center;
+  margin-top: 80px;
+  border-style: groove;
+
+}
